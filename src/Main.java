@@ -7,6 +7,9 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Day 1, Part 1: " + Day1.part1());
+        System.out.println("Day 1, Part 2: " + Day1.part2());
+        System.out.println("Day 2, Part 1: " + Day2.part1());
+        System.out.println("Day 2, Part 2: " + Day2.part2());
     }
 
     public static List<String> loadFile(String fileName) {
