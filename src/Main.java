@@ -12,6 +12,8 @@ public class Main {
         System.out.println("Day 2, Part 2: " + Day2.part2());
         System.out.println("Day 3, Part 1: " + Day3.part1());
         System.out.println("Day 3, Part 2: " + Day3.part2());
+        System.out.println("Day 4, Part 1: " + Day4.part1());
+        System.out.println("Day 4, Part 2: " + Day4.part2());
     }
 
     public static List<String> loadFile(String fileName) {
